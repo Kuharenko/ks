@@ -1,0 +1,8 @@
+body{
+    margin-top: 100px;
+}
+
+.output{
+    height: 200px;
+    overflow: auto;
+}
